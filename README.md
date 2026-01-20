@@ -50,7 +50,7 @@ zomato-data-analysis/
 ---
 
 ## 📸 Sample Dashboard
-![Zomato Dashboard](https://github.com/Shravani2712/zomato-data-analysis-project/blob/main/Zomato%20Dashboard%20In%20Power%20BI.png.png)
+![Zomato Dashboard]()
 
 ---
 
