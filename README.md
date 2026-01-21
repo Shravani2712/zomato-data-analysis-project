@@ -17,7 +17,8 @@ The objective of this project is to analyze restaurant data to gain insights int
 - **SQL** – Data extraction, transformation, and cleaning  
 - **Excel** – Data preprocessing and basic analysis  
 - **Tableau** – Interactive dashboards and storyboards  
-- **Power BI** – KPI tracking and comparative visualization  
+- **Power BI** – KPI tracking and comparative visualization
+- **Python** - Data Cleaning, Data exploration, and Visualization 
 
 ---
 
@@ -46,6 +47,7 @@ zomato-data-analysis/
 | Power BI | `zomato analysis.pbix` | KPI tracking and comparative visuals |
 | Excel | `ZOMATO Excel Project.xlsx` | Cleaned and prepared dataset |
 | SQL | `Zomato Final SQL.sql` | Queries used for filtering and aggregation |
+| Python | `Zomato Data Analysis.ipynb` | Data Cleaning & Exploration
 
 ---
 
@@ -59,4 +61,4 @@ zomato-data-analysis/
 
 ## 📬 Author
 Shravani Sachin Dhuri 
-_Data Analyst | Tableau | Power BI | SQL | Excel_
+_Data Analyst | Tableau | Power BI | SQL | Python | Excel_
