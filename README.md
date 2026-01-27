@@ -1,64 +1,105 @@
-# 🍴 Zomato Data Analysis
+# 🍴 Zomato Data Analysis | Data Analyst Portfolio Project
 
-This project explores and visualizes **Zomato restaurant data** using **Tableau, Power BI, SQL, and Excel** to uncover trends in restaurant ratings, cuisines, and customer preferences.
-
----
-
-## 📊 Project Overview
-The objective of this project is to analyze restaurant data to gain insights into:
-- Popular cuisines across regions
-- Rating distribution among restaurants
-- Online delivery vs dine-in trends
-- Average cost for two and location-wise performance
+This **Zomato Data Analysis project** demonstrates **end-to-end data analysis** using **SQL, Python, Excel, Tableau, and Power BI**.
+The project focuses on **data cleaning, exploratory data analysis (EDA), data visualization, and business insights** derived from restaurant data.
 
 ---
 
-## 🧠 Tools & Technologies
-- **SQL** – Data extraction, transformation, and cleaning  
-- **Excel** – Data preprocessing and basic analysis  
-- **Tableau** – Interactive dashboards and storyboards  
-- **Power BI** – KPI tracking and comparative visualization
-- **Python** - Data Cleaning, Data exploration, and Visualization 
+## 📊 Business Problem & Objective
+
+The objective of this project is to analyze Zomato restaurant data to:
+
+* Identify **popular cuisines and restaurant categories**
+* Analyze **restaurant ratings and customer preferences**
+* Compare **online delivery vs dine-in performance**
+* Study **pricing trends and location-wise restaurant performance**
+* Support **data-driven decision making** for the food industry
+
+---
+
+## 🧠 Skills & Tools Used (ATS Keywords)
+
+* **SQL** (Joins, Subqueries, Aggregations, Filtering)
+* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+* **Excel** (Data Cleaning, Pivot Tables, VLOOKUP, Charts)
+* **Tableau** (Interactive Dashboards, Data Visualization, Storytelling)
+* **Power BI** (DAX, KPI Dashboards, Comparative Analysis)
+* **Exploratory Data Analysis (EDA)**
+* **Data Cleaning & Data Preprocessing**
+* **Business Intelligence (BI)**
+* **Data Visualization & Reporting**
 
 ---
 
 ## 📂 Project Structure
+
+```
 zomato-data-analysis/
 │
-├── data/ - Contains raw and cleaned data files
-├── sql_queries/ - SQL scripts used for data cleaning and analysis
-├── dashboards/ - Tableau and Power BI dashboards with screenshots
-└── README.md - Project documentation
+├── data/                # Raw and cleaned datasets
+├── sql_queries/         # SQL scripts for data extraction and analysis
+├── dashboards/          # Tableau and Power BI dashboards
+└── README.md            # Project documentation
+```
 
 ---
 
-## 📈 Key Insights
-- Top cuisines with the highest ratings and most listings  
-- Relationship between restaurant type and customer ratings  
-- Price range comparison across locations  
-- Cities with the highest average ratings  
+## 🔍 Data Analysis Process
+
+1. **Data Collection** – Imported restaurant datasets from multiple sources
+2. **Data Cleaning** – Removed duplicates, handled missing values, standardized formats
+3. **Exploratory Data Analysis (EDA)** – Identified trends, patterns, and outliers
+4. **SQL Analysis** – Aggregated data using joins, group by, and filtering
+5. **Data Visualization** – Built dashboards in Tableau and Power BI
+6. **Insights & Reporting** – Generated actionable insights for business decisions
 
 ---
 
-## 🖥️ Visualizations
-| Tool | File | Description |
-|------|------|--------------|
-| Tableau | `Zomato_Data_Analysis Final.twbx` | Restaurant insights and trends |
-| Power BI | `zomato analysis.pbix` | KPI tracking and comparative visuals |
-| Excel | `ZOMATO Excel Project.xlsx` | Cleaned and prepared dataset |
-| SQL | `Zomato Final SQL.sql` | Queries used for filtering and aggregation |
-| Python | `Zomato Data Analysis.ipynb` | Data Cleaning & Exploration
+## 📈 Key Insights & Findings
+
+* Identified **top-rated cuisines** with the highest number of restaurant listings
+* Analyzed the **relationship between restaurant type and customer ratings**
+* Compared **price ranges across different cities and locations**
+* Highlighted **cities with the highest average restaurant ratings**
+* Observed performance differences between **online delivery and dine-in services**
 
 ---
 
-## 📸 Sample Dashboard
+## 🖥️ Dashboards & Files
+
+| Tool     | File                              | Description                                         |
+| -------- | --------------------------------- | --------------------------------------------------- |
+| Tableau  | `Zomato_Data_Analysis Final.twbx` | Interactive dashboards showing restaurant trends    |
+| Power BI | `zomato analysis.pbix`            | KPI dashboards and comparative performance analysis |
+| Excel    | `ZOMATO Excel Project.xlsx`       | Cleaned dataset and pivot-based analysis            |
+| SQL      | `Zomato Final SQL.sql`            | SQL queries for filtering, joins, and aggregations  |
+| Python   | `Zomato Data Analysis.ipynb`      | Data cleaning, EDA, and visual analysis             |
+
+---
+
+## 📸 Sample Dashboards
+
+### 📊 Excel Dashboard
+
 ![Zomato Dashboard in Excel](https://github.com/Shravani2712/zomato-data-analysis-project/blob/main/Zomato%20Dashboard%20in%20Excel.png)
+
+### 📊 Power BI Dashboard
+
 ![Zomato Dashboard in Power BI](https://github.com/Shravani2712/zomato-data-analysis-project/blob/main/Zomato%20Dashboard%20in%20Power%20BI.png)
+
+### 📊 Tableau Dashboard
+
 ![Zomato Dashboard in Tableau](https://github.com/Shravani2712/zomato-data-analysis-project/blob/main/Zomato%20Dashboard%20in%20Tableau.png)
 
+---
+
+## 📌 Keywords for ATS Indexing
+
+**Data Analyst, SQL, Python, Excel, Tableau, Power BI, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, EDA, Business Intelligence, Data Visualization, KPI Dashboards, Reporting, Data-Driven Decision Making**
 
 ---
 
 ## 📬 Author
-Shravani Sachin Dhuri 
-_Data Analyst | Tableau | Power BI | SQL | Python | Excel_
+
+**Shravani Sachin Dhuri**
+*Data Analyst | SQL | Python | Excel | Tableau | Power BI*
